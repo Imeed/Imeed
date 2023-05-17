@@ -2,7 +2,7 @@
 - 👀 I’m interested in animations and scratch projects
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on animatons
-- 📫 How to reach me on skype: ericmru
+- 📫 How to reach me on skype: eric
 
 
 <!---
