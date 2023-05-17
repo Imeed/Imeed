@@ -2,7 +2,8 @@
 - 👀 I’m interested in animations and scratch projects
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on animatons
-- 📫 How to reach me on skype: Imeed Alone
+- 📫 How to reach me on skype: ericmru
+
 
 <!---
 Imeed/Imeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
